@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 🔭 I’m currently working on Tabagotchi and Secret projet<br>
-🌱 I’m currently learning [![Godot]](https://godotengine.org/)]<br>
+🌱 I’m currently learning [Godot](https://godotengine.org/)]<br>
 🎮 I’m currently playing Zelda tears of the kingdom<br>
 
 ## 🌐 Socials:
