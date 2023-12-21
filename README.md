@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Tabagotchi<br>
-🌱 I’m currently learning Unity<br>
+🔭 I’m currently working on Tabagotchi and Secret projet<br>
+🌱 I’m currently learning [![Godot](https://godotengine.org/)<br
 🎮 I’m currently playing Zelda tears of the kingdom<br>
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 
 ⭐⭐ :
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Godot](https://avatars.githubusercontent.com/u/6318500?s=48&v=4) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
