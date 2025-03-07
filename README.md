@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Tabagotchi and Secret projet<br>
 🌱 I’m currently learning [Godot](https://godotengine.org/)<br>
-🎮 I’m currently playing Zelda tears of the kingdom<br>
+🎮 I’m currently playing Astro bot<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xyam44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxime-sanchez-developper) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xyam44) 
